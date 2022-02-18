@@ -8,7 +8,7 @@
       <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
         <!-- Replace with your content -->
         <div class="px-4 py-6 sm:px-0">
-          Content goes here
+          here
         </div>
         <!-- /End replace -->
       </div>
@@ -21,6 +21,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 
 </style>
