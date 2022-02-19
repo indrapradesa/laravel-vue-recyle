@@ -45,6 +45,7 @@
 import { LockClosedIcon } from '@heroicons/vue/solid'
 
 export default {
+  name: "Login",
   components: {
     LockClosedIcon,
   },
